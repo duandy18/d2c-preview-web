@@ -28,5 +28,6 @@
     "typescript-eslint": "^8.59.2",
     "vite": "^8.0.12"
   },
-  "description": "D2C publish-before preview web for draft-preview Runtime Contract rendering."
+  "description": "D2C publish-before preview web for draft-preview Runtime Contract rendering.",
+  "packageManager": "pnpm@10.18.3"
 }
